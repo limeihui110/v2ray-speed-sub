@@ -1,253 +1,253 @@
 {
-  "generated_at": "2026-07-15T19:42:16Z",
+  "generated_at": "2026-07-16T03:44:01Z",
   "max_latency_ms": 400,
   "min_speed_mib_per_second": 2,
-  "tested": 138,
+  "tested": 149,
   "passed": 35,
   "nodes": [
     {
       "name": "01-vmess-🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸",
       "passed": true,
-      "latency_ms": 130,
+      "latency_ms": 41,
+      "speed_mib_per_second": 23.16,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "02-shadowsocks-🇺🇸US-216.105.168.18-0245",
+      "passed": true,
+      "latency_ms": 51,
+      "speed_mib_per_second": 5.23,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "07-shadowsocks-🇺🇸US-108.181.0.177-0130",
+      "passed": true,
+      "latency_ms": 36,
+      "speed_mib_per_second": 17.6,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "08-hysteria2- By EbraSha 🌪️",
+      "passed": true,
+      "latency_ms": 37,
+      "speed_mib_per_second": 3.91,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "09-shadowsocks-🇨🇦CA-108.181.118.10-0125",
+      "passed": true,
+      "latency_ms": 57,
+      "speed_mib_per_second": 16.26,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "10-vless-⚡ b2n.ir/v2ray-configs | 332",
+      "passed": true,
+      "latency_ms": 80,
+      "speed_mib_per_second": 15.6,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "11-shadowsocks-🇺🇸US-156.146.38.167-0107",
+      "passed": true,
+      "latency_ms": 85,
+      "speed_mib_per_second": 8.6,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "12-vmess-US 🇺🇸 | @Raydikalx | 2801",
+      "passed": true,
+      "latency_ms": 106,
+      "speed_mib_per_second": 10.47,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "13-shadowsocks-🇺🇸US-156.146.38.169-0117",
+      "passed": true,
+      "latency_ms": 86,
+      "speed_mib_per_second": 9.35,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "14-shadowsocks-🇺🇸US-156.146.38.168-0111",
+      "passed": true,
+      "latency_ms": 81,
       "speed_mib_per_second": 7.06,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "02-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸",
+      "name": "15-shadowsocks-🇺🇸US-156.146.38.170-0108",
       "passed": true,
-      "latency_ms": 133,
-      "speed_mib_per_second": 4.67,
+      "latency_ms": 100,
+      "speed_mib_per_second": 8.51,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "04-shadowsocks-🇨🇦CA-108.181.118.10-0125",
+      "name": "21-shadowsocks-🇺🇸US-173.244.56.6-3876",
       "passed": true,
-      "latency_ms": 172,
-      "speed_mib_per_second": 3.71,
+      "latency_ms": 45,
+      "speed_mib_per_second": 17.64,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "08-hysteria2- By EbraSha 🌐",
+      "name": "22-shadowsocks-🇺🇸 US 8",
       "passed": true,
-      "latency_ms": 121,
-      "speed_mib_per_second": 5.81,
+      "latency_ms": 74,
+      "speed_mib_per_second": 19.79,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "10-shadowsocks-🇺🇸 US 8",
-      "passed": true,
-      "latency_ms": 141,
-      "speed_mib_per_second": 4.15,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "11-shadowsocks-🇺🇸 US 7",
-      "passed": true,
-      "latency_ms": 197,
-      "speed_mib_per_second": 5.87,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "13-shadowsocks-🇺🇸US-156.146.38.170-4074",
-      "passed": true,
-      "latency_ms": 89,
-      "speed_mib_per_second": 4.07,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "14-shadowsocks-🇺🇸US-156.146.38.167-0107",
-      "passed": true,
-      "latency_ms": 85,
-      "speed_mib_per_second": 3.45,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "15-vmess-@chillguy_vpn",
-      "passed": true,
-      "latency_ms": 199,
-      "speed_mib_per_second": 5.44,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "16-shadowsocks-🇺🇸US-156.146.38.169-4169",
-      "passed": true,
-      "latency_ms": 86,
-      "speed_mib_per_second": 3.73,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "17-shadowsocks-🇺🇸 US 9",
-      "passed": true,
-      "latency_ms": 81,
-      "speed_mib_per_second": 5.74,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "20-vmess-⚪🏳️_github.com/Ruk1ng001_54d00832",
-      "passed": true,
-      "latency_ms": 183,
-      "speed_mib_per_second": 5.36,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "25-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI",
-      "passed": true,
-      "latency_ms": 259,
-      "speed_mib_per_second": 4.75,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "26-shadowsocks-EPODONIOS",
-      "passed": true,
-      "latency_ms": 205,
-      "speed_mib_per_second": 3.94,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "29-shadowsocks-🇺🇸US-37.19.198.243-4267",
-      "passed": true,
-      "latency_ms": 120,
-      "speed_mib_per_second": 2.31,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "30-shadowsocks-🇺🇸US-37.19.198.236-0145",
+      "name": "25-vmess-⚪🏳️_github.com/Ruk1ng001_54d00832",
       "passed": true,
       "latency_ms": 135,
-      "speed_mib_per_second": 3.4,
+      "speed_mib_per_second": 13.38,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "31-shadowsocks-🇺🇸US-37.19.198.244-0247",
+      "name": "32-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI",
       "passed": true,
-      "latency_ms": 136,
-      "speed_mib_per_second": 2.6,
+      "latency_ms": 146,
+      "speed_mib_per_second": 8.07,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "34-shadowsocks-🇺🇸US-37.19.198.160-0099",
+      "name": "33-shadowsocks-🇨🇦 Join Telegram:@Farah_VPN 🇨🇦",
       "passed": true,
-      "latency_ms": 123,
-      "speed_mib_per_second": 2.95,
+      "latency_ms": 170,
+      "speed_mib_per_second": 5.52,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "37-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸",
+      "name": "34-vmess-V2 - 17",
       "passed": true,
-      "latency_ms": 154,
-      "speed_mib_per_second": 5.94,
+      "latency_ms": 200,
+      "speed_mib_per_second": 3.63,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "40-vmess-🇺🇸 US 26",
+      "name": "36-shadowsocks-🇺🇸US-37.19.198.244-0247",
       "passed": true,
-      "latency_ms": 180,
-      "speed_mib_per_second": 5.35,
+      "latency_ms": 182,
+      "speed_mib_per_second": 3.29,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "41-trojan-🇺🇸 美国 | USA 2",
+      "name": "37-shadowsocks-🇺🇸US-37.19.198.160-4079",
       "passed": true,
-      "latency_ms": 249,
-      "speed_mib_per_second": 4.52,
+      "latency_ms": 215,
+      "speed_mib_per_second": 4.19,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "43-vless-🇺🇸 US 16",
+      "name": "38-shadowsocks-EPODONIOS",
       "passed": true,
-      "latency_ms": 130,
-      "speed_mib_per_second": 7.58,
+      "latency_ms": 203,
+      "speed_mib_per_second": 4.53,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "44-shadowsocks-🇨🇦CA-137.184.174.93-0271",
+      "name": "39-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸",
       "passed": true,
-      "latency_ms": 164,
-      "speed_mib_per_second": 8.19,
+      "latency_ms": 215,
+      "speed_mib_per_second": 3.82,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "49-shadowsocks-🇳🇱NL-158.173.20.171-0154",
+      "name": "40-shadowsocks-🇺🇸US-37.19.198.243-4267",
       "passed": true,
-      "latency_ms": 347,
-      "speed_mib_per_second": 2.03,
+      "latency_ms": 181,
+      "speed_mib_per_second": 4.27,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "51-shadowsocks-🇬🇧 GB 1",
+      "name": "41-shadowsocks-🟢🇨🇦[🎬🤖📺🎭]_github.com/Ruk1ng001_1bdb0ceb",
+      "passed": true,
+      "latency_ms": 220,
+      "speed_mib_per_second": 4.05,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "42-trojan-🇺🇸 美国 | USA 11",
+      "passed": true,
+      "latency_ms": 235,
+      "speed_mib_per_second": 5.88,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "43-shadowsocks-🇺🇸 Join Telegram:@Farah_VPN 🇺🇸",
+      "passed": true,
+      "latency_ms": 251,
+      "speed_mib_per_second": 3.99,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "46-shadowsocks-🇺🇸US-3.145.57.90-0102",
+      "passed": true,
+      "latency_ms": 247,
+      "speed_mib_per_second": 4.49,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "47-vmess-🇺🇸 US 26",
+      "passed": true,
+      "latency_ms": 195,
+      "speed_mib_per_second": 3.93,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "48-vless-🇺🇸 US 21",
+      "passed": true,
+      "latency_ms": 254,
+      "speed_mib_per_second": 4.69,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "49-shadowsocks-🇨🇦CA-137.184.174.93-0271",
+      "passed": true,
+      "latency_ms": 305,
+      "speed_mib_per_second": 3.72,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "50-vless-🇺🇸 140 - US - VLESS/REALITY/PBK/VISION/U",
+      "passed": true,
+      "latency_ms": 256,
+      "speed_mib_per_second": 3.75,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "52-vless-🇨🇦 加拿大 | CAN",
+      "passed": true,
+      "latency_ms": 334,
+      "speed_mib_per_second": 3.48,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "53-shadowsocks-🇯🇵 JP 3",
+      "passed": true,
+      "latency_ms": 332,
+      "speed_mib_per_second": 2.12,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "54-shadowsocks-EPODONIOS",
+      "passed": true,
+      "latency_ms": 333,
+      "speed_mib_per_second": 2.26,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "55-shadowsocks-EPODONIOS",
       "passed": true,
       "latency_ms": 335,
       "speed_mib_per_second": 2.26,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "52-shadowsocks-🇳🇱 NL 4",
+      "name": "57-hysteria2- By EbraSha ♦️",
       "passed": true,
-      "latency_ms": 326,
-      "speed_mib_per_second": 2.25,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "54-hysteria2->>@oneclickvpnkeys::FR",
-      "passed": true,
-      "latency_ms": 248,
-      "speed_mib_per_second": 3.44,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "59-vless-⚡ b2n.ir/v2ray-configs | 34",
-      "passed": true,
-      "latency_ms": 370,
-      "speed_mib_per_second": 2.08,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "62-shadowsocks-🇩🇪DE-213.202.208.199-0212",
-      "passed": true,
-      "latency_ms": 400,
-      "speed_mib_per_second": 2.1,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "63-shadowsocks-@vpng3 [6]",
-      "passed": true,
-      "latency_ms": 399,
-      "speed_mib_per_second": 2.14,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "70-shadowsocks-EPODONIOS",
-      "passed": true,
-      "latency_ms": 375,
-      "speed_mib_per_second": 2.25,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "98-shadowsocks-🇬🇧GB-82.38.31.194-0199",
-      "passed": true,
-      "latency_ms": 392,
-      "speed_mib_per_second": 2.18,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "122-shadowsocks-EPODONIOS",
-      "passed": true,
-      "latency_ms": 390,
-      "speed_mib_per_second": 2.15,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "128-shadowsocks-🇬🇧GB-82.38.31.219-0197",
-      "passed": true,
-      "latency_ms": 367,
-      "speed_mib_per_second": 2.02,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "137-vless-🇺🇸 美国 | USA 4",
-      "passed": true,
-      "latency_ms": 326,
-      "speed_mib_per_second": 7.0,
+      "latency_ms": 281,
+      "speed_mib_per_second": 2.88,
       "downloaded_bytes": 4194304
     }
   ]
