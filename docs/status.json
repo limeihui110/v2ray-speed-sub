@@ -1,267 +1,246 @@
 {
-  "generated_at": "2026-07-17T14:08:08Z",
+  "generated_at": "2026-07-17T19:37:03Z",
   "max_latency_ms": 400,
   "min_speed_mib_per_second": 2,
   "tested": 150,
-  "passed": 37,
+  "passed": 34,
   "nodes": [
     {
-      "name": "01-shadowsocks-🇺🇸US-108.181.0.177-0053",
+      "name": "01-vmess-🇨🇿 CZ 10",
       "passed": true,
-      "latency_ms": 157,
-      "speed_mib_per_second": 5.33,
+      "latency_ms": 201,
+      "speed_mib_per_second": 2.26,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "02-vmess-🇨🇿 CZ 31",
+      "name": "02-vmess-🇨🇿 CZ 6",
       "passed": true,
-      "latency_ms": 165,
-      "speed_mib_per_second": 5.5,
+      "latency_ms": 199,
+      "speed_mib_per_second": 4.51,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "03-vmess-🇨🇿 CZ 49",
-      "passed": true,
-      "latency_ms": 163,
-      "speed_mib_per_second": 5.34,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "04-vmess-🇨🇿 CZ 11",
-      "passed": true,
-      "latency_ms": 152,
-      "speed_mib_per_second": 5.43,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "05-vmess-🇨🇿 CZ 15",
-      "passed": true,
-      "latency_ms": 150,
-      "speed_mib_per_second": 3.48,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "07-shadowsocks-🇨🇦CA-108.181.118.10-0055",
-      "passed": true,
-      "latency_ms": 171,
-      "speed_mib_per_second": 4.71,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "09-vmess-🇺🇸 US 2",
-      "passed": true,
-      "latency_ms": 278,
-      "speed_mib_per_second": 5.06,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "11-shadowsocks-EPODONIOS",
-      "passed": true,
-      "latency_ms": 155,
-      "speed_mib_per_second": 5.01,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "12-shadowsocks-🇺🇸US-173.244.56.9-0075",
-      "passed": true,
-      "latency_ms": 168,
-      "speed_mib_per_second": 5.29,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "15-vmess-⚪🏳️_github.com/Ruk1ng001_54d00832",
-      "passed": true,
-      "latency_ms": 229,
-      "speed_mib_per_second": 4.94,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "18-shadowsocks-🇺🇸US-156.146.38.167-0046",
-      "passed": true,
-      "latency_ms": 81,
-      "speed_mib_per_second": 8.12,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "20-shadowsocks-🇺🇸US-156.146.38.168-0047",
-      "passed": true,
-      "latency_ms": 84,
-      "speed_mib_per_second": 9.15,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "21-shadowsocks-🇺🇸US-156.146.38.170-0045",
-      "passed": true,
-      "latency_ms": 84,
-      "speed_mib_per_second": 5.36,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "22-shadowsocks-🇺🇸US-156.146.38.169-4169",
-      "passed": true,
-      "latency_ms": 83,
-      "speed_mib_per_second": 7.66,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "23-vmess-Channel : @FreeConfigForYou🏴🏳",
-      "passed": true,
-      "latency_ms": 188,
-      "speed_mib_per_second": 5.0,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "24-vmess-🇺🇸 US 11",
-      "passed": true,
-      "latency_ms": 183,
-      "speed_mib_per_second": 5.04,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "25-vmess-🇺🇸 US 26",
+      "name": "03-vmess-🇨🇿 CZ 1",
       "passed": true,
       "latency_ms": 187,
-      "speed_mib_per_second": 2.44,
+      "speed_mib_per_second": 4.8,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "28-vmess-🇺🇸 US 12",
+      "name": "04-shadowsocks-🇺🇸US-108.181.0.177-0071",
       "passed": true,
-      "latency_ms": 242,
-      "speed_mib_per_second": 5.16,
+      "latency_ms": 187,
+      "speed_mib_per_second": 4.4,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "29-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI",
+      "name": "05-vmess-🇺🇸 Join+Telegram:@Farah_VPN 🇺🇸",
       "passed": true,
-      "latency_ms": 239,
-      "speed_mib_per_second": 5.11,
+      "latency_ms": 197,
+      "speed_mib_per_second": 4.84,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "31-shadowsocks-🇨🇦 CA 1",
+      "name": "06-shadowsocks-🇨🇦CA-108.181.118.10-0073",
       "passed": true,
-      "latency_ms": 178,
-      "speed_mib_per_second": 2.46,
+      "latency_ms": 196,
+      "speed_mib_per_second": 4.06,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "33-shadowsocks-EPODONIOS",
+      "name": "09-shadowsocks-🇺🇸US-156.146.38.170-4074",
       "passed": true,
-      "latency_ms": 83,
-      "speed_mib_per_second": 5.87,
+      "latency_ms": 115,
+      "speed_mib_per_second": 2.53,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "34-shadowsocks-🇺🇸US-37.19.198.244-3684",
+      "name": "11-shadowsocks-🇺🇸US-173.244.56.6-0096",
       "passed": true,
-      "latency_ms": 102,
-      "speed_mib_per_second": 7.91,
+      "latency_ms": 199,
+      "speed_mib_per_second": 3.89,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "35-vmess-🇺🇸 US 24",
+      "name": "13-shadowsocks-EPODONIOS",
       "passed": true,
-      "latency_ms": 139,
-      "speed_mib_per_second": 2.85,
+      "latency_ms": 224,
+      "speed_mib_per_second": 3.71,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "36-shadowsocks-🇺🇸US-37.19.198.236-0050",
-      "passed": true,
-      "latency_ms": 81,
-      "speed_mib_per_second": 8.02,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "38-shadowsocks-🇺🇸US-37.19.198.160-4079",
-      "passed": true,
-      "latency_ms": 103,
-      "speed_mib_per_second": 5.44,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "39-trojan-🇺🇸US-34.217.29.0-2966",
-      "passed": true,
-      "latency_ms": 289,
-      "speed_mib_per_second": 3.87,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "40-vmess-🇺🇸 US 16",
-      "passed": true,
-      "latency_ms": 85,
-      "speed_mib_per_second": 5.52,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "42-trojan-🇺🇸 US 14",
+      "name": "14-vmess-⚪🏳️_github.com/Ruk1ng001_54d00832",
       "passed": true,
       "latency_ms": 278,
-      "speed_mib_per_second": 3.77,
+      "speed_mib_per_second": 3.72,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "43-trojan-🇺🇸US-54.184.22.123-2965",
+      "name": "17-shadowsocks-🇺🇸US-156.146.38.169-4169",
       "passed": true,
-      "latency_ms": 295,
-      "speed_mib_per_second": 2.58,
+      "latency_ms": 126,
+      "speed_mib_per_second": 2.72,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "44-vmess-🇺🇸 US 22",
+      "name": "19-shadowsocks-🇺🇸 US 1",
       "passed": true,
-      "latency_ms": 81,
-      "speed_mib_per_second": 3.95,
+      "latency_ms": 126,
+      "speed_mib_per_second": 2.93,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "45-shadowsocks-🇺🇸 US 20",
+      "name": "21-shadowsocks-🇺🇸US-156.146.38.168-0062",
       "passed": true,
-      "latency_ms": 84,
-      "speed_mib_per_second": 8.77,
+      "latency_ms": 120,
+      "speed_mib_per_second": 2.6,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "46-trojan-🇺🇸 US 13",
+      "name": "22-vless-🇺🇸 美国 | USA 21",
       "passed": true,
-      "latency_ms": 304,
-      "speed_mib_per_second": 3.69,
+      "latency_ms": 259,
+      "speed_mib_per_second": 3.59,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "47-vmess-🇺🇸 US 21",
+      "name": "23-vmess-🔴🇺🇸[🎬🤖📺🎭]_github.com/Ruk1ng001_e0da0560",
       "passed": true,
-      "latency_ms": 149,
-      "speed_mib_per_second": 6.17,
+      "latency_ms": 236,
+      "speed_mib_per_second": 3.45,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "48-shadowsocks-🇨🇦 CA 2",
+      "name": "26-vless-🇺🇸 418 - US - VLESS/REALITY/PBK/SID/VISI",
       "passed": true,
-      "latency_ms": 154,
-      "speed_mib_per_second": 14.22,
+      "latency_ms": 349,
+      "speed_mib_per_second": 3.27,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "49-shadowsocks-🇨🇦CA-137.184.174.93-0044",
+      "name": "27-shadowsocks-EPODONIOS",
       "passed": true,
-      "latency_ms": 140,
-      "speed_mib_per_second": 9.02,
+      "latency_ms": 233,
+      "speed_mib_per_second": 3.08,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "50-vless-🇺🇸 140 - US - VLESS/REALITY/PBK/VISION/U",
+      "name": "28-shadowsocks-🇺🇸US-37.19.198.243-0066",
       "passed": true,
-      "latency_ms": 137,
-      "speed_mib_per_second": 8.45,
+      "latency_ms": 37,
+      "speed_mib_per_second": 21.65,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "52-vmess-🇺🇸 US 27",
+      "name": "29-trojan-🇺🇸US-44.251.239.102-2174",
       "passed": true,
-      "latency_ms": 182,
-      "speed_mib_per_second": 5.71,
+      "latency_ms": 353,
+      "speed_mib_per_second": 3.06,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "30-trojan-🇺🇸 US 13",
+      "passed": true,
+      "latency_ms": 363,
+      "speed_mib_per_second": 3.06,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "31-trojan-🇺🇸 US 9",
+      "passed": true,
+      "latency_ms": 358,
+      "speed_mib_per_second": 3.01,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "32-shadowsocks-🇺🇸US-37.19.198.160-0070",
+      "passed": true,
+      "latency_ms": 36,
+      "speed_mib_per_second": 22.72,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "33-trojan-🇺🇸 US 11",
+      "passed": true,
+      "latency_ms": 381,
+      "speed_mib_per_second": 2.91,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "34-shadowsocks-🇺🇸US-18.226.248.109-3001",
+      "passed": true,
+      "latency_ms": 112,
+      "speed_mib_per_second": 11.42,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "35-shadowsocks-🇺🇸US-37.19.198.244-0063",
+      "passed": true,
+      "latency_ms": 39,
+      "speed_mib_per_second": 24.31,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "36-trojan-🇺🇸 美国 | USA 5",
+      "passed": true,
+      "latency_ms": 356,
+      "speed_mib_per_second": 2.97,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "37-shadowsocks-🇺🇸US-37.19.198.236-0068",
+      "passed": true,
+      "latency_ms": 33,
+      "speed_mib_per_second": 24.22,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "38-trojan-🇺🇸 美国 | USA 13",
+      "passed": true,
+      "latency_ms": 369,
+      "speed_mib_per_second": 2.86,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "40-trojan-🇺🇸 美国 | USA 16",
+      "passed": true,
+      "latency_ms": 378,
+      "speed_mib_per_second": 3.02,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "42-trojan-🇺🇸 US 12",
+      "passed": true,
+      "latency_ms": 366,
+      "speed_mib_per_second": 2.92,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "43-trojan-🇺🇸 美国 | USA 20",
+      "passed": true,
+      "latency_ms": 378,
+      "speed_mib_per_second": 3.02,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "44-trojan-🇺🇸 US 14",
+      "passed": true,
+      "latency_ms": 382,
+      "speed_mib_per_second": 2.28,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "45-vmess-🇨🇦 CA 1",
+      "passed": true,
+      "latency_ms": 139,
+      "speed_mib_per_second": 4.03,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "47-shadowsocks-🇨🇦CA-137.184.174.93-5984",
+      "passed": true,
+      "latency_ms": 194,
+      "speed_mib_per_second": 6.93,
       "downloaded_bytes": 4194304
     }
   ]
