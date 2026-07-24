@@ -1,561 +1,253 @@
 {
-  "generated_at": "2026-07-24T08:59:09Z",
+  "generated_at": "2026-07-24T14:27:15Z",
   "max_latency_ms": 400,
   "min_speed_mib_per_second": 2,
   "tested": 432,
-  "passed": 79,
+  "passed": 35,
   "nodes": [
-    {
-      "name": "01-hysteria2-hysteria2-57319578",
-      "passed": true,
-      "latency_ms": 238,
-      "speed_mib_per_second": 4.07,
-      "downloaded_bytes": 4194304
-    },
     {
       "name": "02-hysteria2-hysteria2-24079435",
       "passed": true,
-      "latency_ms": 249,
-      "speed_mib_per_second": 5.11,
+      "latency_ms": 155,
+      "speed_mib_per_second": 11.09,
       "downloaded_bytes": 4194304
     },
     {
       "name": "04-hysteria2-hysteria2-5115768",
       "passed": true,
-      "latency_ms": 215,
-      "speed_mib_per_second": 2.95,
+      "latency_ms": 100,
+      "speed_mib_per_second": 6.51,
       "downloaded_bytes": 4194304
     },
     {
       "name": "06-hysteria2-hysteria2-24079433",
       "passed": true,
-      "latency_ms": 180,
-      "speed_mib_per_second": 2.67,
+      "latency_ms": 47,
+      "speed_mib_per_second": 3.55,
       "downloaded_bytes": 4194304
     },
     {
       "name": "07-hysteria2-hysteria2-5115772",
       "passed": true,
-      "latency_ms": 235,
-      "speed_mib_per_second": 2.68,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "08-hysteria2-hysteria2-26489701",
-      "passed": true,
-      "latency_ms": 226,
-      "speed_mib_per_second": 4.05,
+      "latency_ms": 119,
+      "speed_mib_per_second": 6.51,
       "downloaded_bytes": 4194304
     },
     {
       "name": "10-hysteria2-hysteria2-72828583",
       "passed": true,
-      "latency_ms": 233,
-      "speed_mib_per_second": 4.14,
+      "latency_ms": 288,
+      "speed_mib_per_second": 2.88,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "12-hysteria2-hysteria2-50669578",
+      "name": "11-hysteria2-hysteria2-11309677",
       "passed": true,
-      "latency_ms": 199,
-      "speed_mib_per_second": 3.13,
+      "latency_ms": 230,
+      "speed_mib_per_second": 2.69,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "27-hysteria2-hysteria2-10923",
+      "name": "35-hysteria2-hysteria2-24079434",
       "passed": true,
-      "latency_ms": 203,
-      "speed_mib_per_second": 4.07,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "30-hysteria2-hysteria2-24391",
-      "passed": true,
-      "latency_ms": 282,
-      "speed_mib_per_second": 3.76,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "32-hysteria2-hysteria2-145042",
-      "passed": true,
-      "latency_ms": 191,
-      "speed_mib_per_second": 4.68,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "36-hysteria2-hysteria2-26500142",
-      "passed": true,
-      "latency_ms": 192,
-      "speed_mib_per_second": 4.68,
+      "latency_ms": 356,
+      "speed_mib_per_second": 2.38,
       "downloaded_bytes": 4194304
     },
     {
       "name": "47-shadowsocks-shadowsocks-158",
       "passed": true,
-      "latency_ms": 112,
-      "speed_mib_per_second": 5.92,
+      "latency_ms": 126,
+      "speed_mib_per_second": 4.77,
       "downloaded_bytes": 4194304
     },
     {
       "name": "48-shadowsocks-shadowsocks-156",
       "passed": true,
-      "latency_ms": 192,
-      "speed_mib_per_second": 3.98,
+      "latency_ms": 65,
+      "speed_mib_per_second": 9.07,
       "downloaded_bytes": 4194304
     },
     {
       "name": "49-shadowsocks-shadowsocks-194",
       "passed": true,
-      "latency_ms": 113,
-      "speed_mib_per_second": 4.51,
+      "latency_ms": 124,
+      "speed_mib_per_second": 4.24,
       "downloaded_bytes": 4194304
     },
     {
       "name": "50-shadowsocks-shadowsocks-10989",
       "passed": true,
-      "latency_ms": 111,
-      "speed_mib_per_second": 5.78,
+      "latency_ms": 209,
+      "speed_mib_per_second": 3.59,
+      "downloaded_bytes": 4194304
+    },
+    {
+      "name": "51-shadowsocks-shadowsocks-11012",
+      "passed": true,
+      "latency_ms": 221,
+      "speed_mib_per_second": 3.99,
       "downloaded_bytes": 4194304
     },
     {
       "name": "52-shadowsocks-shadowsocks-155",
       "passed": true,
-      "latency_ms": 191,
-      "speed_mib_per_second": 3.84,
+      "latency_ms": 65,
+      "speed_mib_per_second": 11.9,
       "downloaded_bytes": 4194304
     },
     {
       "name": "53-shadowsocks-shadowsocks-154",
       "passed": true,
-      "latency_ms": 195,
-      "speed_mib_per_second": 3.24,
+      "latency_ms": 38,
+      "speed_mib_per_second": 15.0,
       "downloaded_bytes": 4194304
     },
     {
       "name": "54-shadowsocks-shadowsocks-157",
       "passed": true,
-      "latency_ms": 251,
-      "speed_mib_per_second": 3.68,
+      "latency_ms": 44,
+      "speed_mib_per_second": 16.1,
       "downloaded_bytes": 4194304
     },
     {
       "name": "55-shadowsocks-shadowsocks-159",
       "passed": true,
-      "latency_ms": 117,
-      "speed_mib_per_second": 6.02,
+      "latency_ms": 126,
+      "speed_mib_per_second": 5.32,
       "downloaded_bytes": 4194304
     },
     {
       "name": "56-shadowsocks-shadowsocks-193",
       "passed": true,
-      "latency_ms": 34,
-      "speed_mib_per_second": 24.06,
+      "latency_ms": 249,
+      "speed_mib_per_second": 3.3,
       "downloaded_bytes": 4194304
     },
     {
       "name": "57-shadowsocks-shadowsocks-163",
       "passed": true,
-      "latency_ms": 123,
-      "speed_mib_per_second": 5.11,
+      "latency_ms": 127,
+      "speed_mib_per_second": 6.11,
       "downloaded_bytes": 4194304
     },
     {
       "name": "58-shadowsocks-shadowsocks-196",
       "passed": true,
-      "latency_ms": 42,
-      "speed_mib_per_second": 22.75,
+      "latency_ms": 232,
+      "speed_mib_per_second": 3.12,
       "downloaded_bytes": 4194304
     },
     {
       "name": "59-shadowsocks-shadowsocks-192",
       "passed": true,
-      "latency_ms": 34,
-      "speed_mib_per_second": 26.62,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "61-shadowsocks-shadowsocks-11085",
-      "passed": true,
-      "latency_ms": 323,
-      "speed_mib_per_second": 2.64,
+      "latency_ms": 242,
+      "speed_mib_per_second": 3.35,
       "downloaded_bytes": 4194304
     },
     {
       "name": "62-shadowsocks-shadowsocks-208",
       "passed": true,
-      "latency_ms": 229,
-      "speed_mib_per_second": 2.98,
+      "latency_ms": 105,
+      "speed_mib_per_second": 10.03,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "65-shadowsocks-shadowsocks-166",
+      "name": "64-shadowsocks-shadowsocks-218",
       "passed": true,
-      "latency_ms": 147,
-      "speed_mib_per_second": 7.95,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "67-shadowsocks-shadowsocks-129673",
-      "passed": true,
-      "latency_ms": 46,
-      "speed_mib_per_second": 18.98,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "69-shadowsocks-shadowsocks-205",
-      "passed": true,
-      "latency_ms": 259,
-      "speed_mib_per_second": 2.79,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "70-shadowsocks-shadowsocks-45641610",
-      "passed": true,
-      "latency_ms": 283,
-      "speed_mib_per_second": 2.75,
+      "latency_ms": 321,
+      "speed_mib_per_second": 2.32,
       "downloaded_bytes": 4194304
     },
     {
       "name": "77-shadowsocks-shadowsocks-195",
       "passed": true,
-      "latency_ms": 38,
-      "speed_mib_per_second": 23.42,
+      "latency_ms": 246,
+      "speed_mib_per_second": 3.09,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "82-shadowsocks-shadowsocks-16134",
+      "name": "78-shadowsocks-shadowsocks-211",
       "passed": true,
-      "latency_ms": 288,
-      "speed_mib_per_second": 2.98,
+      "latency_ms": 323,
+      "speed_mib_per_second": 2.3,
       "downloaded_bytes": 4194304
     },
     {
-      "name": "89-shadowsocks-shadowsocks-11046",
+      "name": "80-shadowsocks-shadowsocks-213",
       "passed": true,
-      "latency_ms": 287,
-      "speed_mib_per_second": 2.82,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "90-shadowsocks-shadowsocks-48399240",
-      "passed": true,
-      "latency_ms": 305,
-      "speed_mib_per_second": 2.68,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "98-shadowsocks-shadowsocks-11026",
-      "passed": true,
-      "latency_ms": 303,
-      "speed_mib_per_second": 2.48,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "101-shadowsocks-shadowsocks-185",
-      "passed": true,
-      "latency_ms": 301,
-      "speed_mib_per_second": 2.74,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "102-shadowsocks-shadowsocks-130088",
-      "passed": true,
-      "latency_ms": 307,
-      "speed_mib_per_second": 2.88,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "103-shadowsocks-shadowsocks-53939390",
-      "passed": true,
-      "latency_ms": 291,
-      "speed_mib_per_second": 2.61,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "105-shadowsocks-shadowsocks-56693562",
-      "passed": true,
-      "latency_ms": 286,
-      "speed_mib_per_second": 2.8,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "107-shadowsocks-shadowsocks-83630747",
-      "passed": true,
-      "latency_ms": 287,
-      "speed_mib_per_second": 2.85,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "108-shadowsocks-shadowsocks-10899",
-      "passed": true,
-      "latency_ms": 373,
-      "speed_mib_per_second": 2.68,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "109-shadowsocks-shadowsocks-40118927",
-      "passed": true,
-      "latency_ms": 297,
-      "speed_mib_per_second": 2.88,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "110-shadowsocks-shadowsocks-212",
-      "passed": true,
-      "latency_ms": 262,
-      "speed_mib_per_second": 2.95,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "112-shadowsocks-shadowsocks-180",
-      "passed": true,
-      "latency_ms": 379,
-      "speed_mib_per_second": 2.77,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "114-shadowsocks-shadowsocks-27055",
-      "passed": true,
-      "latency_ms": 272,
-      "speed_mib_per_second": 2.72,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "116-shadowsocks-shadowsocks-27056",
-      "passed": true,
-      "latency_ms": 283,
-      "speed_mib_per_second": 2.8,
+      "latency_ms": 323,
+      "speed_mib_per_second": 2.08,
       "downloaded_bytes": 4194304
     },
     {
       "name": "120-shadowsocks-shadowsocks-11074",
       "passed": true,
-      "latency_ms": 167,
-      "speed_mib_per_second": 12.22,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "121-shadowsocks-shadowsocks-183",
-      "passed": true,
-      "latency_ms": 323,
-      "speed_mib_per_second": 2.75,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "122-shadowsocks-shadowsocks-188",
-      "passed": true,
-      "latency_ms": 309,
-      "speed_mib_per_second": 2.53,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "123-shadowsocks-shadowsocks-60057373",
-      "passed": true,
-      "latency_ms": 343,
-      "speed_mib_per_second": 2.71,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "128-shadowsocks-shadowsocks-189",
-      "passed": true,
-      "latency_ms": 308,
-      "speed_mib_per_second": 2.7,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "130-shadowsocks-shadowsocks-217",
-      "passed": true,
-      "latency_ms": 341,
-      "speed_mib_per_second": 2.64,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "134-shadowsocks-shadowsocks-11047",
-      "passed": true,
-      "latency_ms": 306,
-      "speed_mib_per_second": 2.58,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "143-shadowsocks-shadowsocks-11081",
-      "passed": true,
-      "latency_ms": 371,
-      "speed_mib_per_second": 2.43,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "144-shadowsocks-shadowsocks-127110",
-      "passed": true,
-      "latency_ms": 348,
-      "speed_mib_per_second": 2.56,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "145-shadowsocks-shadowsocks-16132",
-      "passed": true,
-      "latency_ms": 379,
-      "speed_mib_per_second": 2.39,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "155-shadowsocks-shadowsocks-165",
-      "passed": true,
-      "latency_ms": 340,
-      "speed_mib_per_second": 3.13,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "156-shadowsocks-shadowsocks-11078",
-      "passed": true,
-      "latency_ms": 356,
-      "speed_mib_per_second": 2.75,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "172-shadowsocks-shadowsocks-11028",
-      "passed": true,
-      "latency_ms": 318,
-      "speed_mib_per_second": 2.87,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "178-shadowsocks-shadowsocks-177",
-      "passed": true,
-      "latency_ms": 309,
-      "speed_mib_per_second": 2.73,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "183-shadowsocks-shadowsocks-190",
-      "passed": true,
-      "latency_ms": 291,
-      "speed_mib_per_second": 2.79,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "192-shadowsocks-shadowsocks-37998200",
-      "passed": true,
-      "latency_ms": 309,
-      "speed_mib_per_second": 2.71,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "194-shadowsocks-shadowsocks-182",
-      "passed": true,
-      "latency_ms": 344,
-      "speed_mib_per_second": 2.5,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "200-shadowsocks-shadowsocks-10973",
-      "passed": true,
-      "latency_ms": 298,
-      "speed_mib_per_second": 2.6,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "201-shadowsocks-shadowsocks-11023",
-      "passed": true,
-      "latency_ms": 310,
-      "speed_mib_per_second": 2.76,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "207-shadowsocks-shadowsocks-49012021",
-      "passed": true,
-      "latency_ms": 292,
-      "speed_mib_per_second": 2.85,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "214-shadowsocks-shadowsocks-172",
-      "passed": true,
-      "latency_ms": 319,
-      "speed_mib_per_second": 2.72,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "222-shadowsocks-shadowsocks-238",
-      "passed": true,
-      "latency_ms": 307,
-      "speed_mib_per_second": 2.58,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "223-shadowsocks-shadowsocks-266",
-      "passed": true,
-      "latency_ms": 321,
-      "speed_mib_per_second": 2.53,
+      "latency_ms": 302,
+      "speed_mib_per_second": 4.05,
       "downloaded_bytes": 4194304
     },
     {
       "name": "232-trojan-trojan-2520863",
       "passed": true,
-      "latency_ms": 161,
-      "speed_mib_per_second": 6.28,
+      "latency_ms": 166,
+      "speed_mib_per_second": 6.25,
       "downloaded_bytes": 4194304
     },
     {
       "name": "233-trojan-trojan-2520867",
       "passed": true,
-      "latency_ms": 158,
-      "speed_mib_per_second": 6.34,
+      "latency_ms": 163,
+      "speed_mib_per_second": 6.32,
       "downloaded_bytes": 4194304
     },
     {
       "name": "234-trojan-trojan-120887",
       "passed": true,
-      "latency_ms": 158,
-      "speed_mib_per_second": 6.62,
+      "latency_ms": 165,
+      "speed_mib_per_second": 6.23,
       "downloaded_bytes": 4194304
     },
     {
       "name": "236-trojan-trojan-2520862",
       "passed": true,
-      "latency_ms": 158,
-      "speed_mib_per_second": 6.63,
+      "latency_ms": 166,
+      "speed_mib_per_second": 6.22,
       "downloaded_bytes": 4194304
     },
     {
       "name": "238-trojan-trojan-120886",
       "passed": true,
-      "latency_ms": 157,
-      "speed_mib_per_second": 6.65,
+      "latency_ms": 165,
+      "speed_mib_per_second": 6.33,
       "downloaded_bytes": 4194304
     },
     {
       "name": "272-trojan-trojan-2520864",
       "passed": true,
-      "latency_ms": 162,
-      "speed_mib_per_second": 6.47,
+      "latency_ms": 167,
+      "speed_mib_per_second": 6.21,
       "downloaded_bytes": 4194304
     },
     {
       "name": "323-trojan-trojan-120885",
       "passed": true,
-      "latency_ms": 156,
-      "speed_mib_per_second": 6.59,
+      "latency_ms": 168,
+      "speed_mib_per_second": 6.1,
       "downloaded_bytes": 4194304
     },
     {
       "name": "334-trojan-trojan-143578",
       "passed": true,
-      "latency_ms": 161,
-      "speed_mib_per_second": 6.6,
+      "latency_ms": 163,
+      "speed_mib_per_second": 6.3,
       "downloaded_bytes": 4194304
     },
     {
       "name": "363-trojan-trojan-59508879",
       "passed": true,
-      "latency_ms": 143,
-      "speed_mib_per_second": 8.88,
-      "downloaded_bytes": 4194304
-    },
-    {
-      "name": "396-trojan-trojan-62821085",
-      "passed": true,
-      "latency_ms": 395,
-      "speed_mib_per_second": 2.55,
+      "latency_ms": 241,
+      "speed_mib_per_second": 4.65,
       "downloaded_bytes": 4194304
     }
   ]
